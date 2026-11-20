@@ -10,3 +10,6 @@ indent_style = space
 indent_size = 4
 insert_final_newline = true
 charset = utf-8
+[tests/**.cs]
+# Test names use Method_Scenario_Expected underscores
+dotnet_diagnostic.CA1707.severity = none
