@@ -31,3 +31,7 @@ The API listens on `http://localhost:5297` (`https://localhost:7246` with the `h
 
 - `GET /health` – health check
 - `GET /openapi/v1.json` – OpenAPI document (Development only)
+
+## Docs
+
+- [Database ER diagram](docs/database/er-diagram.md)
